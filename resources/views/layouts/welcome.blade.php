@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Simple Attendance Management System</title>
+    <title>Time Attendance Management System</title>
     <meta content="Admin Dashboard" name="description" />
     <meta content="Themesbrand" name="author" />
     <link rel="shortcut icon" href="assets/images/">
